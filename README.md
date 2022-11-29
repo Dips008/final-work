@@ -13,3 +13,7 @@ A program has been written in which an array of strings is entered from the keyb
 **[ "hello" "2" "world" ":-)" ] -> [ "2" ":-)" ]**
 
 **[ "Russia" "Denmark" "Kazan" ] -> [ ]**
+
+## Block Diagram metod GenStrArray
+!![2022-11-29_15-54-57](https://user-images.githubusercontent.com/114352113/204535479-56dfa0ee-9533-4a4a-8fd5-dc25f4888658.png)
+
