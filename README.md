@@ -11,4 +11,5 @@ A program has been written in which an array of strings is entered from the keyb
 ## Examples of how the program works
 
 **[ "hello" "2" "world" ":-)" ] -> [ "2" ":-)" ]**
+
 **[ "Russia" "Denmark" "Kazan" ] -> [ ]**
